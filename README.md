@@ -1,1 +1,1 @@
-# Getting-started-with-Machine-learning-book-codes
+# AI-and-Machine-learning-for-coders-book-codes
